@@ -10,25 +10,25 @@
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-Readme">
+    <clipPath id="clip-Readme_1">
       <rect width="1920" height="1080"/>
     </clipPath>
   </defs>
-  <g id="Readme" clip-path="url(#clip-Readme)">
-    <rect width="1920" height="1080" fill="#313131"/>
+  <g id="Readme_1" data-name="Readme – 1" clip-path="url(#clip-Readme_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
     <text id="Hi_Guys_I_m_Teison_Montero_FRONTEND_DEVELOPER." data-name="Hi Guys,
 
 I’m Teison Montero
-FRONTEND DEVELOPER." transform="translate(140 175)" fill="#fff" font-size="50" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">Hi G</tspan><tspan y="0" font-family="Poppins-Regular, Poppins" font-weight="400">uys,</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="43.5"></tspan></tspan><tspan font-size="70"><tspan x="0" y="87">I’m Teison Montero</tspan></tspan><tspan font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="130.5">FRONTEND DEVELOPER.</tspan></tspan></text>
-    <text id="I_m_twenty_one_years_old_creative_web_designer_specializing_in_User_Interface_Design_and_Development." data-name="I’m twenty one years old creative web designer, specializing in User Interface Design and Development." transform="translate(140 337)" fill="#fff" font-size="30" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="32">I’m twenty one years old creative web designer, specializing </tspan><tspan x="0" y="78">in User Interface Design and Development.</tspan></text>
-    <rect id="Rectángulo_1" data-name="Rectángulo 1" width="1920" height="540" transform="translate(0 540)" fill="#2c2c2c"/>
+FRONTEND DEVELOPER." transform="translate(140 175)" fill="#2c2c2c" font-size="50" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">Hi G</tspan><tspan y="0" font-family="Poppins-Regular, Poppins" font-weight="400">uys,</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="43.5"></tspan></tspan><tspan font-size="70"><tspan x="0" y="87">I’m Teison Montero</tspan></tspan><tspan font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="130.5">FRONTEND DEVELOPER.</tspan></tspan></text>
+    <text id="I_m_twenty_one_years_old_creative_web_designer_specializing_in_User_Interface_Design_and_Development." data-name="I’m twenty one years old creative web designer, specializing in User Interface Design and Development." transform="translate(140 337)" fill="#2c2c2c" font-size="30" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="32">I’m twenty one years old creative web designer, specializing </tspan><tspan x="0" y="78">in User Interface Design and Development.</tspan></text>
+    <rect id="Rectángulo_1" data-name="Rectángulo 1" width="1920" height="540" transform="translate(0 540)" fill="#b4b4b4"/>
     <g id="Experence" transform="translate(101 -6)">
-      <text id="EXPERENCE-2" data-name="EXPERENCE" transform="translate(140 657)" fill="#313131" font-size="90" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">EXPERENCE</tspan></text>
-      <text id="EXPERENCE-3" data-name="EXPERENCE" transform="translate(270 641)" fill="#fff" font-size="45" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">EXPERENCE</tspan></text>
+      <text id="EXPERIENCE" transform="translate(140 657)" fill="#fff" font-size="90" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">EXPERIENCE</tspan></text>
+      <text id="EXPERIENCE-2" data-name="EXPERIENCE" transform="translate(276 641)" fill="#2c2c2c" font-size="45" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">EXPERIENCE</tspan></text>
     </g>
     <g id="my-skills" transform="translate(1067 -6)">
-      <text id="MY_SKILLS" data-name="MY SKILLS" transform="translate(140 657)" fill="#313131" font-size="90" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">MY SKILLS</tspan></text>
-      <text id="My_Skills-2" data-name="My Skills" transform="translate(267 641)" fill="#fff" font-size="45" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">My Skills</tspan></text>
+      <text id="MY_SKILLS" data-name="MY SKILLS" transform="translate(140 657)" fill="#fff" font-size="90" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">MY SKILLS</tspan></text>
+      <text id="My_Skills-2" data-name="My Skills" transform="translate(267 641)" fill="#2c2c2c" font-size="45" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">My Skills</tspan></text>
     </g>
     <g id="Page-1" transform="translate(-1.5 -1.5)" opacity="0.08">
       <g id="icons-background" transform="translate(1.5 1.5)">
